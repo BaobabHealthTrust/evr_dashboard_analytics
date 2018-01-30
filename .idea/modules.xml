@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DDE2/.idea/DDE2.iml" filepath="$PROJECT_DIR$/../DDE2/.idea/DDE2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VillageListing/.idea/VillageListing.iml" filepath="$PROJECT_DIR$/../VillageListing/.idea/VillageListing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/evr_dashboard.iml" filepath="$PROJECT_DIR$/.idea/evr_dashboard.iml" />
+    </modules>
+  </component>
+</project>
