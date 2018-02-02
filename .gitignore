@@ -19,8 +19,8 @@
 .byebug_history
 
 #ignore config files with credentials
-/config/database.yml
-/config/dde_connection.yml
+database.yml
+dde_connection.yml
 
 .idea/workspace.xml
 
