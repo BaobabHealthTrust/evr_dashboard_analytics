@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+NOTES:
+-
+By design, the dashboard has multiple pages represented as navigation tabs on the left sidebar, 
+and each page is displayed for 2 minutes before navigating to the next page.
+
+SCREENSHOTS
+-
+![Dashboard Screenshot](assets/images/dashboard.png?raw=true "Dashboard")
+![Villages Screenshot](assets/images/villages.png?raw=true "Villages")
+![Map View Screenshot](assets/images/map_view.png?raw=true "Map View")
