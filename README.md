@@ -74,6 +74,7 @@ and each page is displayed for 5 minutes before navigating to the next page.
 
 SCREENSHOTS
 -
-![Dashboard Screenshot](assets/images/dashboard.png?raw=true "Dashboard")
-![Villages Screenshot](assets/images/villages.png?raw=true "Villages")
-![Map View Screenshot](assets/images/map_view.png?raw=true "Map View")
+
+![Dashboard Screenshot](app/assets/images/dashboard.png?raw=true "Dashboard")
+![Villages Screenshot](app/assets/images/villages.png?raw=true "Villages")
+![Map View Screenshot](app/assets/images/map_view.png?raw=true "Map View")
