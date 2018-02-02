@@ -17,3 +17,8 @@
 /yarn-error.log
 
 .byebug_history
+
+#ignore config files with credentials
+database.yml
+dde_connection.yml
+
